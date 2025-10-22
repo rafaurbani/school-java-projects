@@ -1,0 +1,18 @@
+Cidade: Poa
+Edificacoes: Edificacoes: 0
+	Edificios: 0
+	Casas:0
+IPTU: 14000.0
+
+Cidade: Viamao
+Edificacoes: Edificacoes: 4
+	Edificios: 2
+	Casas:2
+IPTU: 14004.08
+
+Cidade: Gravatai
+Edificacoes: Edificacoes: 0
+	Edificios: 0
+	Casas:0
+IPTU: 14000.0
+
